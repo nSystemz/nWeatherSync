@@ -21,7 +21,7 @@ Configure the city, language and API endpoint directly in `config.lua`.
 Example:
 
 ```lua
-Config.City = "Los Angeles"
+Config.City = "Berlin"
 Config.Language = "en"
 Config.ApiUrl = "http://127.0.0.1:3005/weather"
 Config.UpdateInterval = 1800000
