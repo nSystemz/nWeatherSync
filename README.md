@@ -68,7 +68,9 @@ Example API response:
 
 ## Misc
 
-Youtube Video: https://www.youtube.com/watch?v=wOOz96TZfL8
+Looking for an affordable FiveM server? Check out ZAP-Hosting: https://bit.ly/3CW56Vh and save even more with the coupon code Nsus-a-3805! (Advertisement)
+
+Youtube Video: https://www.youtube.com/watch?v=D2Nw10Vnx2U
 
 Support: https://discord.nemesus.de
 
