@@ -23,7 +23,7 @@ Example:
 ```lua
 Config.City = "Berlin"
 Config.Language = "en"
-Config.ApiUrl = "http://127.0.0.1:3005/weather"
+Config.ApiUrl = "https://weathersync.nemesus.de/weather"
 Config.UpdateInterval = 1800000
 ```
 
@@ -51,12 +51,9 @@ Config.UpdateInterval = 1800000
 ensure nWeatherSync
 ```
 
-5. Make sure your weather API is running and reachable by the FiveM server.
-
 ## Requirements
 
 * FiveM Server
-* A compatible weather API endpoint returning JSON data
 
 Example API response:
 
